@@ -35,7 +35,7 @@ public class Registro extends AppCompatActivity {
             }
         });
     }
-
+        // Por probar
 
     private void bindUi() {
         textEmail = (EditText) findViewById(R.id.editText);
